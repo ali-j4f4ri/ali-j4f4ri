@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Jafari</h1>
 <h3 align="center">Software Engineer from Iran</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ali-j4f4ri&label=Profile%20views&color=0e75b6&style=flat" alt="ali-j4f4ri" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
