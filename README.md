@@ -2,11 +2,7 @@
 <h3 align="center">Software Engineer from Iran</h3>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-j4f4ri" alt="ali-j4f4ri" />
-  </a>
-</p>
+
 
 - 🔭 I'm currently working on **software engineering festivals, hackathons, and programming events.**
 
