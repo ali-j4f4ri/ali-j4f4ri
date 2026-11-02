@@ -1,24 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Jafari</h1>
-<h3 align="center">Software Engineer from Iran</h3>
+<h3 align="center">Software & ML/DL Engineer from Iran</h3>
 
 
 
 
-- 🔭 I'm currently working on **software engineering festivals, hackathons, and programming events.**
+- 🔭 I'm currently working on **software engineering festivals, and programming events.**
 
-- 💻 I'm a **Software Engineer**.
+- 🌱 I'm currently improving my skills in **C#, C++, PHP & (HTML & CSS & JS & REST API) , Python**.
 
-- 🌱 I'm currently improving my skills in **C#, C++, and Python**.
+- 👨‍💻 My community available on **https://xorix.ir**
 
-- 👨‍💻 All of my projects are available at **https://ali-folio.ir**
-
-- 💬 Ask me about **C#, C++, Python, Software Engineering**
-
-- 📫 Reach me at **mr.ali.jafari2009@gmail.com**
-
-- 📄 Learn more about me at **https://ali-folio.ir**
-
-- ⚡ Fun fact: **I believe there's always something new to learn, so I consider myself a junior engineer.**
+- 📫 Reach me at **mr.ali.jafari2009@gmail.com** also **info@xorix.ir**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
